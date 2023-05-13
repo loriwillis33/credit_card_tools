@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update Docs language dropdown height (#6927)
