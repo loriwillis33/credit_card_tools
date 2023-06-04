@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
