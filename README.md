@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
