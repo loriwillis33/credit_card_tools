@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Segment TensorRT batch=3 fix (#7952)
