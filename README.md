@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
