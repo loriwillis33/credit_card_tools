@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
